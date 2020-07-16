@@ -1,2 +1,5 @@
 .gitsecret/keys/random_seed
 test_data.txt
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
